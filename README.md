@@ -35,7 +35,7 @@ The course data is being fetched from `https://mysqlcs639.cs.wisc.edu:5000/class
     "subject": <course subject>
   }
 }
----
+```
 
 **Run `npm install` in the terminal after cloning to automatically install needed npm packages such as react-bootstrap**
 
